@@ -1,0 +1,12 @@
+{
+  "latest_version": 1.0,
+  "force_update": false,
+  "apk_url": "https://dl.google.com/vpn.apk",
+  "moneytize": false,
+  "show_prompt": false,
+  "prompt_url": "https://google.com/intro",
+  "show_ads_full_screen": false,
+  "show_ads_full_screen_seconds": 0,
+  "show_ads_bottom_banner1": true,
+  "show_ads_bottom_banner2": true,
+}
