@@ -1,3 +1,4 @@
+// start config
 {
   "latest_version": 1.0,
   "force_update": false,
@@ -10,3 +11,4 @@
   "show_ads_bottom_banner1": true,
   "show_ads_bottom_banner2": true
 }
+// end config
